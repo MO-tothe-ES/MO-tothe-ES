@@ -1,12 +1,19 @@
 ## Casper Moes
 
-MSc Economics student @ University of Copenhagen (UCPH).
+MSc Economics student at the University of Copenhagen (UCPH).
 
-### Course notes & Homework solutions
+### Course Notes & Homework Solutions
 
-* [Econometrics — SAMF](https://github.com/MO-tothe-ES/Econometrics_UCPH)
-* [Macroeconomics III — SAMF](https://github.com/MO-tothe-ES/MacroIII_UCPH)
-* [Machine Learning A — DIKU](https://github.com/MO-tothe-ES/MLA_DIKU)
+- [**Econometrics**](https://github.com/MO-tothe-ES/Econometrics_UCPH)  
+  Notes from teaching *Econometrics I* and from taking *Applied Econometric Policy Evaluation (AEPE)*.
+
+- [**Macroeconomics III**](https://github.com/MO-tothe-ES/MacroIII_UCPH)  
+  Homework assignments for *Macroeconomics III* (2026).
+
+- [**Machine Learning A**](https://github.com/MO-tothe-ES/MLA_DIKU)  
+  Homework assignments for *Machine Learning A*.
 
 ### Projects
-* [Bachelors Thesis](https://github.com/MO-tothe-ES/BA_github)
+
+- [**Bachelor's Thesis — UCPH**](https://github.com/MO-tothe-ES/BA_github)  
+  A theoretical project titled *Self-Financing of Public Deficits under Active Monetary Policy*.
