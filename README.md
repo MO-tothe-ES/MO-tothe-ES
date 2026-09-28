@@ -4,7 +4,7 @@ MSc Economics student (BAKA) at the University of Copenhagen (UCPH).
 
 ### Course Notes & Homework Solutions
 
-- [**Heterogeneous Agent Models & Computational Macroeconomics**](LINK-TO-REPOSITORY)  
+- [**Heterogeneous Agent Models & Computational Macroeconomics**](https://github.com/MO-tothe-ES/HANK_UCPH)  
   Notes from *Heterogeneous Agent Models* at UCPH and general notes on computational macroeconomics.
 
 - [**Machine Learning A — DIKU**](https://github.com/MO-tothe-ES/MLA_DIKU)  
