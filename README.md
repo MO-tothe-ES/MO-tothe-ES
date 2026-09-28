@@ -1,6 +1,6 @@
 ## Casper Moes
 
-MSc Economics student at the University of Copenhagen (UCPH).
+MSc Economics student (BAKA) at the University of Copenhagen (UCPH).
 
 ### Course Notes & Homework Solutions
 
