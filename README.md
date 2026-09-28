@@ -10,7 +10,7 @@ MSc Economics student (BAKA) at the University of Copenhagen (UCPH).
 - [**Macroeconomics III**](https://github.com/MO-tothe-ES/MacroIII_UCPH)  
   Homework assignments for *Macroeconomics III* (2026).
 
-- [**Machine Learning A -- DIKU**](https://github.com/MO-tothe-ES/MLA_DIKU)  
+- [**Machine Learning A — DIKU**](https://github.com/MO-tothe-ES/MLA_DIKU)  
   Homework assignments for *Machine Learning A* (2026).
 
 ### Projects
