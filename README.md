@@ -9,4 +9,4 @@ MSc Economics student @ University of Copenhagen (UCPH).
 * [Machine Learning A — DIKU](https://github.com/MO-tothe-ES/MLA_DIKU)
 
 ### Projects
-* [Bachelors Thesis]([https://github.com/MO-tothe-ES/MLA_DIKU](https://github.com/MO-tothe-ES/BA_github))
+* [Bachelors Thesis](https://github.com/MO-tothe-ES/BA_github)
