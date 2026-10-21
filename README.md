@@ -1,6 +1,6 @@
 ## Casper Moes
 
-MSc Economics student (BAKA) at the University of Copenhagen (UCPH). Teaching Assistant at UCPH and Research Assistant (part-time) at ROCKWOOL Fonden.
+MSc Economics student (BAKA) and Teaching Assistant at the University of Copenhagen (UCPH). Research Assistant (part-time) at ROCKWOOL Fonden.
 
 ### Course Notes & Homework Solutions
 
