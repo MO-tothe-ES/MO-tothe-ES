@@ -1,6 +1,6 @@
 ## Casper Moes
 
-MSc Economics student (BAKA) at the University of Copenhagen (UCPH).
+MSc Economics student (BAKA) at the University of Copenhagen (UCPH). Teaching Assistant at UCPH and Research Assistant at ROCKWOOL Fonden.
 
 ### Course Notes & Homework Solutions
 
@@ -20,3 +20,9 @@ MSc Economics student (BAKA) at the University of Copenhagen (UCPH).
 
 - [**Bachelor's Thesis — UCPH**](https://github.com/MO-tothe-ES/BA_github)  
   A theoretical project titled *Self-Financing of Public Deficits under Active Monetary Policy*.
+
+- [**BBR — Historical Building Data**](https://github.com/MO-tothe-ES/BBR)  
+  Python notebooks for processing and analysing historical Danish building records (BBR), including data cleaning, harmonisation of building characteristics, and descriptive analysis.
+
+- [**OSM to OSRM — Historical Routing Networks**](https://github.com/MO-tothe-ES/OSM_to_OSRM)  
+  Scripts for extracting historical OpenStreetMap data and building year-specific OSRM routing networks for walking, cycling, and driving.
