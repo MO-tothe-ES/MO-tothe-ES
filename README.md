@@ -6,7 +6,7 @@ MSc Economics student (BAKA) and Teaching Assistant at the University of Copenha
 
 - [**Econometrics**](https://github.com/MO-tothe-ES/Econometrics_UCPH)  
   Notes from teaching *Econometrics I* (2026), homework solutions to *Econometrics II* (2025), and notes from taking *Applied Econometric Policy Evaluation (AEPE)* (2025).
-  
+
 - [**Machine Learning A — DIKU**](https://github.com/MO-tothe-ES/MLA_DIKU)  
   Homework assignments for *Machine Learning A* (2026).
 
@@ -20,6 +20,9 @@ MSc Economics student (BAKA) and Teaching Assistant at the University of Copenha
 
 - [**Bachelor's Thesis — UCPH**](https://github.com/MO-tothe-ES/BA_github)  
   A theoretical project titled *Self-Financing of Public Deficits under Active Monetary Policy*.
+
+- [**Industrial Organisation Projects — UCPH**](https://github.com/MO-tothe-ES/AIO_UCPH)  
+  Projects from *Advanced Industrial Organisation* (2026) at UCPH, covering empirical demand estimation, differentiated-product competition, and merger analysis.
 
 - [**BBR — Historical Building Data**](https://github.com/MO-tothe-ES/BBR)  
   Python notebooks for processing and analysing historical Danish building records (BBR), including data cleaning, harmonisation of building characteristics, and descriptive analysis.
