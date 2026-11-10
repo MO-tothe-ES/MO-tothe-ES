@@ -1,6 +1,6 @@
 ## Casper Moes
 
-MSc Economics student (BAKA) and Teaching Assistant at the University of Copenhagen (UCPH). Research Assistant (part-time) at ROCKWOOL Fonden.
+MSc Economics student and Teaching Assistant at the University of Copenhagen (UCPH). Research Assistant (part-time) at ROCKWOOL Fonden.
 
 ### Course Notes & Homework Solutions
 
@@ -8,7 +8,7 @@ MSc Economics student (BAKA) and Teaching Assistant at the University of Copenha
   Notes from teaching *Econometrics I* (2026), homework solutions to *Econometrics II* (2025), and notes from taking *Applied Econometric Policy Evaluation (AEPE)* (2025).
 
 - [**Machine Learning A — DIKU**](https://github.com/MO-tothe-ES/MLA_DIKU)  
-  Homework assignments for *Machine Learning A* (2026).
+  Notes and Homework solutions for *Machine Learning A* (2026).
 
 - [**Heterogeneous Agent Models & Computational Macroeconomics**](https://github.com/MO-tothe-ES/HANK_UCPH)  
   Notes from *Heterogeneous Agent Models* at UCPH and general notes on computational macroeconomics.
