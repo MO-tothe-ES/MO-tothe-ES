@@ -4,7 +4,7 @@ MSc Economics student and Teaching Assistant at the University of Copenhagen (UC
 
 ### Course Notes & Homework Solutions
 
-- [**Econometrics (BSc level)**](https://github.com/MO-tothe-ES/Econometrics_UCPH)  
+- [**Econometrics (I, II and AEPE)**](https://github.com/MO-tothe-ES/Econometrics_UCPH)  
   Notes from teaching *Econometrics I* (2026), homework solutions to *Econometrics II* (2025), and notes from taking *Applied Econometric Policy Evaluation (AEPE)* (2025).
 
 - [**Machine Learning A — DIKU**](https://github.com/MO-tothe-ES/MLA_DIKU)  
